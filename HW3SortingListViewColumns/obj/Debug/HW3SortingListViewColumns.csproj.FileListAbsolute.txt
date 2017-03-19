@@ -1,0 +1,14 @@
+C:\Source\CHSP220\HW3SortingListViewColumns\bin\Debug\HW3SortingListViewColumns.exe.config
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns.csprojResolveAssemblyReference.cache
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\MainWindow.g.cs
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\App.g.cs
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns_MarkupCompile.cache
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns_MarkupCompile.lref
+C:\Source\CHSP220\HW3SortingListViewColumns\bin\Debug\HW3SortingListViewColumns.exe
+C:\Source\CHSP220\HW3SortingListViewColumns\bin\Debug\HW3SortingListViewColumns.pdb
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\MainWindow.baml
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns.g.resources
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns.Properties.Resources.resources
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns.csproj.GenerateResource.Cache
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns.exe
+C:\Source\CHSP220\HW3SortingListViewColumns\obj\Debug\HW3SortingListViewColumns.pdb
