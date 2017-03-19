@@ -1,0 +1,14 @@
+﻿<Window x:Class="HW4ZipCodeTextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW4ZipCodeTextBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel >
+        <Label>Zip code</Label>
+        <TextBox x:Name="uxTxtBoxZip" TextChanged="uxTxtBoxZip_TxtChanged" Text="A1B2C3" />
+        <Button x:Name="uxBtnSubmit" IsEnabled="False">Submit</Button>
+    </StackPanel>
+</Window>

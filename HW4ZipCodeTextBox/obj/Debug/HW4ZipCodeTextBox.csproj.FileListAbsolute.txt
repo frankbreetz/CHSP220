@@ -1,0 +1,14 @@
+C:\Source\CHSP220\HW4ZipCodeTextBox\bin\Debug\HW4ZipCodeTextBox.exe.config
+C:\Source\CHSP220\HW4ZipCodeTextBox\bin\Debug\HW4ZipCodeTextBox.exe
+C:\Source\CHSP220\HW4ZipCodeTextBox\bin\Debug\HW4ZipCodeTextBox.pdb
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox.csprojResolveAssemblyReference.cache
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\MainWindow.g.cs
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\App.g.cs
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox_MarkupCompile.cache
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox_MarkupCompile.lref
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\MainWindow.baml
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox.g.resources
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox.Properties.Resources.resources
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox.csproj.GenerateResource.Cache
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox.exe
+C:\Source\CHSP220\HW4ZipCodeTextBox\obj\Debug\HW4ZipCodeTextBox.pdb
