@@ -1,0 +1,6 @@
+C:\Source\CHSP220\InClassExercise\bin\Debug\InClassExercise.exe.config
+C:\Source\CHSP220\InClassExercise\bin\Debug\InClassExercise.exe
+C:\Source\CHSP220\InClassExercise\bin\Debug\InClassExercise.pdb
+C:\Source\CHSP220\InClassExercise\obj\Debug\InClassExercise.csprojResolveAssemblyReference.cache
+C:\Source\CHSP220\InClassExercise\obj\Debug\InClassExercise.exe
+C:\Source\CHSP220\InClassExercise\obj\Debug\InClassExercise.pdb

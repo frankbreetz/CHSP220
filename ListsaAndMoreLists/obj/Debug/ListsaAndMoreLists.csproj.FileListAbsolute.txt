@@ -1,0 +1,6 @@
+C:\Source\CHSP220\ListsaAndMoreLists\bin\Debug\ListsaAndMoreLists.exe.config
+C:\Source\CHSP220\ListsaAndMoreLists\bin\Debug\ListsaAndMoreLists.exe
+C:\Source\CHSP220\ListsaAndMoreLists\bin\Debug\ListsaAndMoreLists.pdb
+C:\Source\CHSP220\ListsaAndMoreLists\obj\Debug\ListsaAndMoreLists.csprojResolveAssemblyReference.cache
+C:\Source\CHSP220\ListsaAndMoreLists\obj\Debug\ListsaAndMoreLists.exe
+C:\Source\CHSP220\ListsaAndMoreLists\obj\Debug\ListsaAndMoreLists.pdb

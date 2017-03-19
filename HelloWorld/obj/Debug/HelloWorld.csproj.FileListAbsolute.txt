@@ -1,0 +1,1 @@
+C:\Source\CHSP220\HelloWorld\bin\Debug\HelloWorld.exe.config

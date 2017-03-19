@@ -1,0 +1,10 @@
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\ContactDB.dll.config
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\ContactDB.dll
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\ContactDB.pdb
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\EntityFramework.dll
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\EntityFramework.xml
+C:\Source\CHSP220\ContactApp\ContactDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\CHSP220\ContactApp\ContactDB\obj\Debug\ContactDB.csprojResolveAssemblyReference.cache
+C:\Source\CHSP220\ContactApp\ContactDB\obj\Debug\ContactDB.dll
+C:\Source\CHSP220\ContactApp\ContactDB\obj\Debug\ContactDB.pdb
